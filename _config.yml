@@ -1,18 +1,28 @@
-analytics: {}
+name: Autumn Reign
+favicon: null
+layout_spectrum: 0.052581
+typography_spectrum: 0.68658
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
-    - '#E0E0D0'
-    - '#907030'
-    - '#989070'
-    - '#E8D030'
-    - '#D8C070'
+    - '#f47320'
+    - '#0a0905'
+    - '#5c2e09'
+    - '#974b0f'
+    - '#584429'
   brandStrength: 0.6939070576336235
   lightness: 0.7061176400166005
-  rhythmicContrast: 0.9661007921677083
   saturation: 0.046079789754003286
-cta: {}
-layout_spectrum: 0.052581
-name: Autumn Reign
-opengraph: {}
+  rhythmicContrast: 0.9661007921677083
 purpose: []
-typography_spectrum: 0.68658

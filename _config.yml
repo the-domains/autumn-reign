@@ -1,29 +1,18 @@
-name: Autumn Reign
-favicon: null
-layout_spectrum: 0.4933
-typography_spectrum: 0.51796
-title: TRUTH SERUM
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
-    - '#3b0000'
-    - '#a70000'
-    - '#9e3b00'
-    - '#fbba00'
-    - '#fdedd0'
+    - '#3B0000'
+    - '#A70000'
+    - '#9E3B00'
+    - '#FBBA00'
+    - '#FDEDD0'
   brandStrength: 0.4375
   lightness: 0.375
-  saturation: 0.25
   rhythmicContrast: 0.75
+  saturation: 0.25
+cta: {}
+layout_spectrum: 0.4933
+name: Autumn Reign Poet
+opengraph: {}
 purpose: []
+typography_spectrum: 0.51796

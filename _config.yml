@@ -1,7 +1,7 @@
 name: Autumn Reign Poet
 favicon: null
-layout_spectrum: 0.546453
-typography_spectrum: 0.26494
+layout_spectrum: 1
+typography_spectrum: 0.11302
 cta:
   domain: null
   bucket: null
@@ -21,7 +21,7 @@ color:
     - '#f5b35d'
     - '#fcdf99'
     - '#7f340c'
-  brandStrength: 0.4375
+  brandStrength: 0.5625
   lightness: 0.3125
   saturation: 0.25
   rhythmicContrast: 0.75

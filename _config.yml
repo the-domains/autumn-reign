@@ -1,18 +1,18 @@
 analytics: {}
 color:
   brandColors:
-    - '#fdfbe4'
-    - '#da6e26'
-    - '#f5b35d'
-    - '#fcdf99'
-    - '#7f340c'
+    - '#000000'
+    - '#481000'
+    - '#000000'
+    - '#D88808'
+    - '#F0E090'
   brandStrength: 0.329392
   lightness: 0.291385
   rhythmicContrast: 0.25
   saturation: 0.25
 cta: {}
-layout_spectrum: 0.74124
+layout_spectrum: 0.507601
 name: Autumn Reign Poet
 opengraph: {}
 purpose: []
-typography_spectrum: 0.86311
+typography_spectrum: 0.741554

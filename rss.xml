@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[TRUTH SERUM]]></title>
-        <description><![CDATA[TRUTH SERUM]]></description>
+        <title><![CDATA[Autumn Reign Poet]]></title>
+        <description><![CDATA[Autumn Reign Poet]]></description>
         <link>https://thegrid.ai/autumn-reign/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 05 Feb 2016 16:02:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Feb 2016 11:56:03 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/autumn-reign/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -18,7 +18,14 @@
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/23bbe1f6-ca9c-4e20-baa5-574ab7ccd41c.jpg">]]></description>
             <link>https://thegrid.ai/autumn-reign/2049c5fd-fb91-4c6f-a8d6-878f1fdc0eba/index.html</link>
             <guid isPermaLink="false">2049c5fd-fb91-4c6f-a8d6-878f1fdc0eba</guid>
-            <pubDate>Fri, 05 Feb 2016 13:07:48 GMT</pubDate>
+            <pubDate>Thu, 11 Feb 2016 11:56:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>https://www.youtube.com/watch?v=KGD0k0klLjo</p>]]></description>
+            <link>https://thegrid.ai/autumn-reign/4a2df11d-c835-4dd6-b043-aa2a372ad3c6/index.html</link>
+            <guid isPermaLink="false">4a2df11d-c835-4dd6-b043-aa2a372ad3c6</guid>
+            <pubDate>Fri, 05 Feb 2016 16:01:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -62,13 +69,6 @@
             <link>https://www.facebook.com/photo.php?fbid=414877675342210&amp;set=pb.100004599423907.-2207520000.1454678367.&amp;type=3&amp;size=960%2C720</link>
             <guid isPermaLink="false">ad24b761-2138-4190-9900-3f314658c4cd</guid>
             <pubDate>Fri, 05 Feb 2016 14:15:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Book Signing, Minneapolis]]></title>
-            <description><![CDATA[<h1>Book Signing, Minneapolis</h1>]]></description>
-            <link>https://thegrid.ai/autumn-reign/book-signing-minneapolis/index.html</link>
-            <guid isPermaLink="false">e0115f0f-f50a-46b7-b449-98851e220d57</guid>
-            <pubDate>Fri, 05 Feb 2016 14:14:58 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,8 +4,15 @@
         <description><![CDATA[Autumn Reign Poet]]></description>
         <link>https://thegrid.ai/autumn-reign/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 31 Mar 2016 16:52:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Mar 2016 16:53:31 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/autumn-reign/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8998883e-ba29-4ff1-9ffc-c24ef8b3a3ca.jpg">]]></description>
+            <link>https://thegrid.ai/autumn-reign/black-rose/index.html</link>
+            <guid isPermaLink="false">38b5724a-756f-4852-8cf2-5253164012a8</guid>
+            <pubDate>Thu, 31 Mar 2016 16:53:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>BROKEN WING
@@ -71,13 +78,6 @@ Corpses heal wounded</p>]]></description>
             <link>https://thegrid.ai/autumn-reign/loves-gift/index.html</link>
             <guid isPermaLink="false">38b63463-620c-430c-b15c-aa449b3691df</guid>
             <pubDate>Thu, 31 Mar 2016 14:35:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/273340bf-b454-4529-9fbb-7922f0f64c97.jpg">]]></description>
-            <link>https://www.facebook.com/photo.php?fbid=368644399965538&amp;set=pb.100004599423907.-2207520000.1454678389.&amp;type=3&amp;size=512%2C512</link>
-            <guid isPermaLink="false">2009ffe1-8e42-498a-a293-9538aaa522c8</guid>
-            <pubDate>Thu, 31 Mar 2016 16:52:07 GMT</pubDate>
         </item>
     </channel>
 </rss>

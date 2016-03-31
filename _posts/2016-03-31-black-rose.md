@@ -3,22 +3,22 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: |
   BLACK ROSE
-datePublished: '2016-03-31T14:28:20.525Z'
-dateModified: '2016-03-31T14:28:19.240Z'
+datePublished: '2016-03-31T16:53:29.561Z'
+dateModified: '2016-03-31T16:24:26.280Z'
 title: ''
 author: []
+sourcePath: _posts/2016-03-31-black-rose.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-31-black-rose.md
-published: true
 url: black-rose/index.html
 _type: Article
 

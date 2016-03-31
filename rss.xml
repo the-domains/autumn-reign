@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Autumn Reign Poet]]></title>
-        <description><![CDATA[Autumn Reign Poet]]></description>
+        <title><![CDATA[Autumn Reign - Poet]]></title>
+        <description><![CDATA[Autumn Reign - Poet]]></description>
         <link>https://thegrid.ai/autumn-reign/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 31 Mar 2016 16:53:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Mar 2016 17:56:42 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/autumn-reign/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -27,6 +27,13 @@
             <link>https://thegrid.ai/autumn-reign/8030e675-c9a0-47e9-9ad8-5bd4552a4f2c/index.html</link>
             <guid isPermaLink="false">8030e675-c9a0-47e9-9ad8-5bd4552a4f2c</guid>
             <pubDate>Fri, 05 Feb 2016 16:00:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/64f3f4a3-df88-4a94-af5a-3678a8e11938.jpg">]]></description>
+            <link>https://thegrid.ai/autumn-reign/648a3498-f3c7-406b-a243-9d8ab58dde4c/index.html</link>
+            <guid isPermaLink="false">648a3498-f3c7-406b-a243-9d8ab58dde4c</guid>
+            <pubDate>Thu, 31 Mar 2016 17:55:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -70,14 +77,6 @@ Corpses heal wounded</p>]]></description>
             <link>https://thegrid.ai/autumn-reign/7f02a7c4-64e9-490b-bec3-e90510a62f9b/index.html</link>
             <guid isPermaLink="false">7f02a7c4-64e9-490b-bec3-e90510a62f9b</guid>
             <pubDate>Thu, 31 Mar 2016 16:21:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>LOVES GIFT
-</p>]]></description>
-            <link>https://thegrid.ai/autumn-reign/loves-gift/index.html</link>
-            <guid isPermaLink="false">38b63463-620c-430c-b15c-aa449b3691df</guid>
-            <pubDate>Thu, 31 Mar 2016 14:35:09 GMT</pubDate>
         </item>
     </channel>
 </rss>

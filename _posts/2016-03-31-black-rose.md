@@ -3,12 +3,12 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: |
   BLACK ROSE
-datePublished: '2016-03-31T16:53:29.561Z'
-dateModified: '2016-03-31T16:24:26.280Z'
+datePublished: '2016-03-31T22:25:46.618Z'
+dateModified: '2016-03-31T17:28:35.198Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-31-black-rose.md
@@ -33,6 +33,7 @@ you through your gloomy days and your darkest night.
 
 Black Rose, do not be fooled by the cunning smile or the small
 opportunities that exist for a short while
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8998883e-ba29-4ff1-9ffc-c24ef8b3a3ca.jpg)
 
 Black Rose, put your stake in life's grounddo not let your
 indecision be the conqueror of your true destiny.
@@ -45,4 +46,3 @@ disappointments, let them protect you.
 
 Black Rose, you are the seed of life for tomorrow that is feared
 by so many today.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8998883e-ba29-4ff1-9ffc-c24ef8b3a3ca.jpg)

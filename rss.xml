@@ -4,7 +4,7 @@
         <description><![CDATA[Autumn Reign Poet]]></description>
         <link>https://thegrid.ai/autumn-reign/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 31 Mar 2016 14:10:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Mar 2016 14:29:23 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/autumn-reign/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,14 @@
             <link>https://thegrid.ai/autumn-reign/8030e675-c9a0-47e9-9ad8-5bd4552a4f2c/index.html</link>
             <guid isPermaLink="false">8030e675-c9a0-47e9-9ad8-5bd4552a4f2c</guid>
             <pubDate>Fri, 05 Feb 2016 16:00:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>BLACK ROSE
+</p>]]></description>
+            <link>https://thegrid.ai/autumn-reign/black-rose/index.html</link>
+            <guid isPermaLink="false">38b5724a-756f-4852-8cf2-5253164012a8</guid>
+            <pubDate>Thu, 31 Mar 2016 14:28:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,12 +76,6 @@
             <link>https://www.facebook.com/photo.php?fbid=10200607868696629&amp;set=t.100004599423907&amp;type=3&amp;size=848%2C1136</link>
             <guid isPermaLink="false">959ddc20-87d6-4c73-8f6e-1b0b8150b791</guid>
             <pubDate>Fri, 05 Feb 2016 14:17:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <link>https://www.facebook.com/photo.php?fbid=529680973861879&amp;set=pb.100004599423907.-2207520000.1454678314.&amp;type=3&amp;size=1024%2C681</link>
-            <guid isPermaLink="false">12586197-052c-437f-bbb1-c137bee319f6</guid>
-            <pubDate>Fri, 05 Feb 2016 14:17:41 GMT</pubDate>
         </item>
     </channel>
 </rss>

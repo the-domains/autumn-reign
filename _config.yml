@@ -1,18 +1,28 @@
-analytics: {}
+name: Autumn Reign Poet
+favicon: null
+layout_spectrum: 0.507601
+typography_spectrum: 0.741554
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
-    - '#000000'
-    - '#481000'
-    - '#000000'
-    - '#D88808'
-    - '#F0E090'
-  brandStrength: 0.329392
-  lightness: 0.291385
-  rhythmicContrast: 0.25
+    - '#ff0000'
+    - '#1a0000'
+    - '#ffd200'
+    - '#ff4a00'
+    - '#fdfcf7'
+  brandStrength: 0.5
+  lightness: 0.5625
   saturation: 0.25
-cta: {}
-layout_spectrum: 0.507601
-name: Autumn Reign Poet
-opengraph: {}
+  rhythmicContrast: 0.25
 purpose: []
-typography_spectrum: 0.741554

@@ -6,10 +6,10 @@ color:
     - '#ce7229'
     - '#d3cfac'
     - '#c7aa7f'
-  brandStrength: 1
-  lightness: 0.518581
-  rhythmicContrast: 0.796453
-  saturation: 0.501689
+  brandStrength: 0.646959
+  lightness: 0.26098
+  rhythmicContrast: 0.461993
+  saturation: 0
 cta: {}
 layout_spectrum: 0.665541
 name: Autumn Reign - Poet
